@@ -52,8 +52,16 @@ CoreCode 23.1
 ## Date Of Birth 
 1. Ask for the date of birth and call it 'date_of_birth’.
 2. Calculate in which year we are currently right now and call it 'present_year'.
-3. Then substract ‘year_now' from the ’date_of_birth’ in order to get the age.
+3. Then substract ‘present_year' from the ’date_of_birth’ in order to get the age.
 4. Calculate as: 'age' =  'present_year' - 'date_of_birth'.
 5. Print the result calculated age.
 6. End.
+## Find The Treasure 
+First statement to take in consideration is that all of the messages are lies, so the following is implicit according to each person’s logic: 
+
+The middle chest doesn’t have a treasure as it is stated in the beginning that it has. It is also stated that all the chests have treasures, indicating that not all of them have treasures. The last statement indicates that only one of this chests have treasure, stipulating more than one has a treasure. 
+
+*Conclusion: A and C have a treasure.*
+
+
 
