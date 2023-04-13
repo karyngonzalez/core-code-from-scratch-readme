@@ -66,6 +66,15 @@ The middle chest doesn’t have a treasure as it is stated in the beginning that
 First Alice stated that nobody and not even her studied mathematics making her the lier, and becoming the statement true, that nobody studied but only her, but this is not possible, so we leave her aside. Bob, stated that one person studied make this a truth, but the other 3 persons stated that 2, 3 and 4 people have studied but *its is not logically possible* so Bob must be telling the truth. 
 
 *Conclusion: Bob told the truth.*
-## 
+## Cereal Vs. Milk
+1. Open box of cereal.
+2. Get out a bowl.
+3. Pour cereal out of the box directly into the bowl.
+4. Stop pouring once bowl is halfway full.
+5. Add fruit (If not, skip and go to step 6).
+6. Get milk out of the fridge.
+7. Pour milk directly into bowl of cereal.
+8. Stop pouring once cereal has reached the top of the bowl.
+9. Enjoy.
 
-
+![6E26674A-A181-4F25-BBE5-57314CE5B5F9_4_5005_c](https://user-images.githubusercontent.com/84160528/231845471-91e93a44-8cca-44d7-a233-284ff954ee34.jpeg)
