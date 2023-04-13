@@ -62,6 +62,10 @@ First statement to take in consideration is that all of the messages are lies, s
 The middle chest doesn’t have a treasure as it is stated in the beginning that it has. It is also stated that all the chests have treasures, indicating that not all of them have treasures. The last statement indicates that only one of this chests have treasure, stipulating more than one has a treasure. 
 
 *Conclusion: A and C have a treasure.*
+## Logic Problem 
+First Alice stated that nobody and not even her studied mathematics making her the lier, and becoming the statement true, that nobody studied but only her, but this is not possible, so we leave her aside. Bob, stated that one person studied make this a truth, but the other 3 persons stated that 2, 3 and 4 people have studied but *its is not logically possible* so Bob must be telling the truth. 
 
+*Conclusion: Bob told the truth.*
+## 
 
 
