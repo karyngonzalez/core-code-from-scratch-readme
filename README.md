@@ -38,3 +38,14 @@ CoreCode 23.1
 4. If you are ask to find *Volume of the Sphere* this is formula: 4/3 πr3 where, 
 * 		r = Is the radius in centimeters.
 5. Give the correct answer. 
+## Numbers 
+1. Authenticate the number and call it ‘authenticate_number’.
+2. If a number is even you are able to divide it into 2 with no decimals.
+3. Verify if ‘authenticate_number' can be divided by 2.
+4. If it can be divided, then: 
+4.1 Print that ‘authenticate_number' is even.
+5. If it cannot be divided exactly by 2, then:
+5.1 Print that 'authenticate_number' is odd.
+6. End.
+
+![04BF8516-714A-4EB0-BB17-BCD4B306FEEA](https://user-images.githubusercontent.com/84160528/231805045-39e8d623-cd6d-4aed-8a0f-daac8246e5b5.jpeg)
