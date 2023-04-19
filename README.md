@@ -83,5 +83,21 @@ First Alice stated that nobody and not even her studied mathematics making her t
 
 ![Screen Shot 2023-04-14 at 11 52 43](https://user-images.githubusercontent.com/84160528/233108822-50e2d6d7-4b31-476f-bec0-054b9def06c2.png)
 ## MOD
-Odd and even Numbers 
 <img width="711" alt="Screen Shot 2023-04-19 at 08 50 49" src="https://user-images.githubusercontent.com/84160528/233121829-77b5c427-3c54-43cc-ac41-3057a35227ee.png">
+## Register Form 
+<img width="710" alt="Screen Shot 2023-04-19 at 10 27 41" src="https://user-images.githubusercontent.com/84160528/233140589-600d464f-430b-477a-8845-39d1e18cf4dc.png">
+## Truth Tables
+1. T & T = T ✅
+2. T & F = F ✅
+3. F & T = T ❌
+4. F & F = F ✅
+5. T | T = T ✅
+6. T | F = F ❌
+7. F | T = T ✅
+8. F | F = F ✅
+9. ~ T = T ❌
+10. ~ F = T ✅
+11. (T & F) | ( ~ F) = T ✅
+12. (T | F ) & (F | F) = T ❌
+13. ~ ((T | F ) & (F | F)) & F = F ✅
+14. ~ ((T | F ) & (F | F)) & T = T ✅
