@@ -78,10 +78,10 @@ First Alice stated that nobody and not even her studied mathematics making her t
 9. Enjoy.
 
 ![6E26674A-A181-4F25-BBE5-57314CE5B5F9_4_5005_c](https://user-images.githubusercontent.com/84160528/231845471-91e93a44-8cca-44d7-a233-284ff954ee34.jpeg)
-## PSeInt Print My Name and My Age
+## PSeInt and Algorithm Game
 <img width="878" alt="Screen Shot 2023-04-14 at 22 41 58" src="https://user-images.githubusercontent.com/84160528/233106196-2d2beaa5-89ef-4aed-a4c9-fa3a6fb94e46.png">
-## Algorithm Game 
-Reach Level 15
-
 
 ![Screen Shot 2023-04-14 at 11 52 43](https://user-images.githubusercontent.com/84160528/233108822-50e2d6d7-4b31-476f-bec0-054b9def06c2.png)
+## MOD
+Odd and even Numbers 
+<img width="711" alt="Screen Shot 2023-04-19 at 08 50 49" src="https://user-images.githubusercontent.com/84160528/233121829-77b5c427-3c54-43cc-ac41-3057a35227ee.png">
