@@ -87,17 +87,18 @@ First Alice stated that nobody and not even her studied mathematics making her t
 ## Register Form 
 <img width="710" alt="Screen Shot 2023-04-19 at 10 27 41" src="https://user-images.githubusercontent.com/84160528/233140589-600d464f-430b-477a-8845-39d1e18cf4dc.png">
 ## Truth Tables
+
 1. T & T = T ✅
-2. T & F = F ✅
-3. F & T = T ❌
-4. F & F = F ✅
-5. T | T = T ✅
-6. T | F = F ❌
-7. F | T = T ✅
-8. F | F = F ✅
-9. ~ T = T ❌
-10. ~ F = T ✅
-11. (T & F) | ( ~ F) = T ✅
-12. (T | F ) & (F | F) = T ❌
-13. ~ ((T | F ) & (F | F)) & F = F ✅
-14. ~ ((T | F ) & (F | F)) & T = T ✅
+3. T & F = F ✅
+4. F & T = T ❌
+5. F & F = F ✅
+6. T | T = T ✅
+7. T | F = F ❌
+8. F | T = T ✅
+9. F | F = F ✅
+10. ~ T = T ❌
+11. ~ F = T ✅
+12. (T & F) | ( ~ F) = T ✅
+13. (T | F ) & (F | F) = T ❌
+14. ~ ((T | F ) & (F | F)) & F = F ✅
+15. ~ ((T | F ) & (F | F)) & T = T ✅
