@@ -108,3 +108,7 @@ First Alice stated that nobody and not even her studied mathematics making her t
 
 ## Simple Calculator 
 <img width="791" alt="Screen Shot 2023-05-18 at 16 22 59" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/6a1fcc54-0370-48fc-be42-0f6be5b6bd18">
+
+## Special Number 
+<img width="332" alt="Screen Shot 2023-05-18 at 16 29 06" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/65c9f7f3-53b3-499b-9aea-7c41c05d227a">
+
