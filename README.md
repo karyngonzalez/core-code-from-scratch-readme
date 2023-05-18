@@ -112,3 +112,7 @@ First Alice stated that nobody and not even her studied mathematics making her t
 ## Special Number 
 <img width="332" alt="Screen Shot 2023-05-18 at 16 29 06" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/65c9f7f3-53b3-499b-9aea-7c41c05d227a">
 
+## Simple Calculator with Switch 
+<img width="544" alt="Screen Shot 2023-05-18 at 16 32 20" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/332760de-4af1-4369-b52c-6481d57186d5">
+
+
