@@ -104,3 +104,7 @@ First Alice stated that nobody and not even her studied mathematics making her t
 13. (T | F ) & (F | F) = T ❌
 14. ~ ((T | F ) & (F | F)) & F = F ✅
 15. ~ ((T | F ) & (F | F)) & T = T ✅
+
+
+## Simple Calculator 
+<img width="791" alt="Screen Shot 2023-05-18 at 16 22 59" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/6a1fcc54-0370-48fc-be42-0f6be5b6bd18">
