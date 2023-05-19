@@ -115,4 +115,7 @@ First Alice stated that nobody and not even her studied mathematics making her t
 ## Simple Calculator with Switch 
 <img width="544" alt="Screen Shot 2023-05-18 at 16 32 20" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/332760de-4af1-4369-b52c-6481d57186d5">
 
+## Multi Option Program 
+<img width="953" alt="Screen Shot 2023-05-19 at 10 30 34" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/4d1b9a9f-4543-45bb-88e0-aab514640d20">
+
 
