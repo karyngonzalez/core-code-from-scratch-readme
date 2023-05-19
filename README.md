@@ -121,3 +121,6 @@ First Alice stated that nobody and not even her studied mathematics making her t
 ## Multiplication Tables
 <img width="666" alt="Screen Shot 2023-05-19 at 10 41 09" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/789a3d42-00a4-411e-b600-c93ebe3a616c">
 
+## Simple Calculator "Do While"
+<img width="547" alt="Screen Shot 2023-05-19 at 10 42 36" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/8caa788c-2002-4ca8-97b9-53bef65c3831">
+
