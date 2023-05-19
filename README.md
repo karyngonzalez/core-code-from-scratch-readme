@@ -118,4 +118,6 @@ First Alice stated that nobody and not even her studied mathematics making her t
 ## Multi Option Program 
 <img width="953" alt="Screen Shot 2023-05-19 at 10 30 34" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/4d1b9a9f-4543-45bb-88e0-aab514640d20">
 
+## Multiplication Tables
+<img width="666" alt="Screen Shot 2023-05-19 at 10 41 09" src="https://github.com/karyngonzalez/core-code-from-scratch-readme/assets/84160528/789a3d42-00a4-411e-b600-c93ebe3a616c">
 
